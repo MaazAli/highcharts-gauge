@@ -1,3 +1,5 @@
+# This package is currently NOT published on [atmosphere](www.atmosphere.com)!
+
 ## Highcharts Solid Gauges
 
 Add to your Meteor app
