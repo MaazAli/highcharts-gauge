@@ -8,9 +8,7 @@ Add to your Meteor app
 meteor add maazalik:highcharts-gauge
 ```
 
-```
-Note: This package is only necessary if you want to use [solid gauges](http://www.highcharts.com/demo/gauge-solid)!
-```
+**Note:** This package is only necessary if you want to use [solid gauges](http://www.highcharts.com/demo/gauge-solid)!
 
 ## Examples
 A set of running examples can be found [here](http://highcharts-demo.meteor.com/) and the source can be found [here](https://github.com/jhuenges/highcharts-demo).
