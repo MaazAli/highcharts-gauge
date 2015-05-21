@@ -7,6 +7,7 @@ Add to your Meteor app
 ```
 meteor add maazalik:highcharts-gauge
 ```
+This package will add [maazalik:highcharts](https://github.com/MaazAli/Meteor-HighCharts). 
 
 **Note:** This package is only necessary if you want to use [solid gauges](http://www.highcharts.com/demo/gauge-solid)!
 
