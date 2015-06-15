@@ -1,6 +1,6 @@
 Package.describe({
     summary: "HighCharts gauge for Meteor",
-    version: "0.3.0",
+    version: "0.3.1",
     git: "https://github.com/MaazAli/highcharts-gauge",
     name: "maazalik:highcharts-gauge"
 });
@@ -11,8 +11,8 @@ Package.onUse(function (api) {
     api.use('templating');
     
     // basic highcharts
-    api.use('maazalik:highcharts@0.3.0');
-    api.imply('maazalik:highcharts@0.3.0');
+    api.use('maazalik:highcharts@0.3.1');
+    api.imply('maazalik:highcharts@0.3.1');
     // gauge
     api.addFiles([
       'lib/highcharts-solide-gauge.js',
